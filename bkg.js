@@ -9,6 +9,7 @@
 
 
 	var title = browser.i18n.getMessage("menuName");
+	// ???
 	if(!title) title = "open as inPrivate";
 	
 	
