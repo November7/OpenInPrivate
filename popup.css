@@ -1,0 +1,13 @@
+body {
+	width:300px;
+	background-color: #0099cc;
+	font-family: verdana;
+	font-size: 9pt;
+	color: white;
+	line-height: 2;
+}
+
+.title {	
+	font-size: 11pt;
+	font-weight: bold;
+}

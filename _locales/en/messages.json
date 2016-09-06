@@ -1,0 +1,20 @@
+{ 
+	"menuName": 
+	{ 
+		"message": "Open as inPrivate"
+	},
+	"optionPage": 
+	{
+		"message": "Open inPrivate - settings"
+	},
+	"openTop":
+	{
+		"message": "Open page on top"		
+	},
+	"settingTitle":
+	{
+		"message": "Settings"
+	}
+
+
+}
