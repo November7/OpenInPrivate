@@ -1,8 +1,8 @@
 {  
 	"author" : "Marcin Kowalski",
-	"name": "Open private",
+	"name": "OpenInPrivate",
 	"description": "Open link in private window",
-	"version": "1.0.2",
+	"version": "1.0.0",
 	"permissions": ["contextMenus","storage"],
 	"background": 
 	{
@@ -17,7 +17,9 @@
 	{
 		"default_icon": 
 		{
-			"38": "ico/icon_38.png"
+			"20": "ico/icon_20.png",        	
+			"38": "ico/icon_38.png",
+			"40": "ico/icon_40.png"
 		},
 		"default_title": "__MSG_optionPage__",
 		"default_popup": "popup.html"
