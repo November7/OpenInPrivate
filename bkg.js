@@ -17,7 +17,7 @@ browser.contextMenus.onClicked.addListener(function(info, tab) {
 	var params = {
 		url: info.linkUrl,
 		focused: focused,			
-		inPrivate: true
+		incognito: true
 	};
 	browser.windows.create(params);
 	
