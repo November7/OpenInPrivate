@@ -1,5 +1,5 @@
 
-var focused = false;
+var focused = true;
 browser.storage.local.get("openTop",function (element) {
 	focused = element.openTop?true:false;
 });
